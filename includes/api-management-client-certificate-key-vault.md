@@ -65,3 +65,6 @@ To upload a client certificate to API Management:
 
 
 1. Select **Save**.
+
+    > [!NOTE]
+    > You can upload a CER file if you only plan to use the certificate to authenticate client to API management.
